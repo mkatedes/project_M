@@ -4,3 +4,4 @@ date>>aa
 git add .
 git commit -m "a"
 git push
+echo a
